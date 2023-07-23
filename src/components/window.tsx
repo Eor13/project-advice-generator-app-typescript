@@ -6,8 +6,8 @@ import * as S from "./style/style";
 const Show = () => {
     const [showAdvice, setShowAdvice] = useState(
         {slip: {
-                id: 0,
-                advice: ""
+                id:"",
+                advice:"" 
             }}
     )
     const changAdvice = async () => {
