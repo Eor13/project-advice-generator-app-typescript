@@ -12,7 +12,7 @@ O objetivo foi construir em Typescript e React um Portfólio.
 </div>
 
 
-<a href="https://project-my-portfolio-eor13.vercel.app/" target="_blank">Clique Aqui para ir direto para página</a>
+<a href="https://project-advice-generator-app-typescript-eor13.vercel.app/" target="_blank">Clique Aqui para ir direto para página</a>
 
 ## Tecnologias utilizadas
 - Typescript
